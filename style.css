@@ -1,0 +1,160 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 22px;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+
+}
+
+.jumbotron {
+  background-image:url('subfolder/Home.jpg');
+  height: 480px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #000;
+  font-size: 64px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 24px;
+  color: #000;
+}
+
+.neighborhood-guides{
+ background-color: #eee;
+ border-bottom: 1px solid #dbdbdb;
+}
+.neighborhood-guides h1{
+ color: #393c3d;
+ font-size: 32px;
+}
+
+.neighborhood-guides h2{
+ color: #393c3d;
+ font-size: 20px;
+ margin-bottom: 50px;
+}
+
+.neighborhood-guides p{
+ font-size: 15px;
+ margin-bottom: 13px;
+}
+
+/******Introduction******/
+.jumbotron-introduction{
+  background-image:url('subfolder/introduction.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron-introduction .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron-introduction h1 {
+  color: #fff;
+  font-size: 64px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron-introduction p {
+  font-size: 24px;
+  color: #fff;
+}
+.containernormal{
+	position: relative;
+	padding: 50px 50px;
+}
+.containergrey{
+	position: relative;
+	padding: 50px 50px;
+	background-color: #eee;
+}
+ 
+ .containernormal h2{
+color:#000;
+font-size: 32px;
+font-weight: bold;	
+ }
+ .containernormal p{
+font-size: 18px;
+ color: #000;
+ }
+ 
+  .containergrey h2{
+color:#000;
+font-size: 32px;
+font-weight: bold;	
+ }
+ .containergrey p{
+font-size: 18px;
+ color: #000;
+ }
+
+/*****AboutTask*****/
+.jumbotron-abouttask{
+  background-image:url('subfolder/abouttask.jpg');
+  height: 480px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron-abouttask .container {
+  position: relative;
+  top:130px;
+}
+
+.jumbotron-abouttask h1 {
+
+  color: #000;
+  font-size: 64px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron-abouttask p {
+  font-size: 24px;
+  color: #000;
+  font-weight: bold;
+}
+
+/*****Weather*****/
+.jumbotron-weather{
+  background-image:url('subfolder/weather.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron-weather .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron-weather h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron-weather p {
+  font-size: 18px;
+  color: #fff;
+}
